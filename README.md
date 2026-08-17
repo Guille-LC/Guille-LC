@@ -20,17 +20,11 @@ Fullstack Engineer | React • Next.js • Firebase
 
 <h3 align="center">🧠 Backend & Database</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark" height="125"/>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,mysql&theme=dark" height="125"/> </p>
 
-<br>
+<h3 align="center">🛠️ Tools & AI</h3>
 
-<h3 align="center">⚙️ Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="125"/>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="125"/> <br><br> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="35"/> </p>
 
 ## Professional Overview
 
@@ -52,6 +46,9 @@ Experience designing production-ready applications with emphasis on maintainabil
 
 ## Selected Projects
 
+**Freedom Academy**
+Habits mentorship to improve attention, concentration, mood and more.
+
 **Memento Mori**  
 Dynamic life-visualization system built with TypeScript and Next.js.
 
@@ -60,4 +57,3 @@ Institutional site with structured content architecture.
 
 **E-commerce Backend**  
 REST-based service layer with authentication and product management.
-
