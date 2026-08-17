@@ -24,7 +24,7 @@ Fullstack Engineer | React • Next.js • Firebase
 
 <h3 align="center">🛠️ Tools & AI</h3>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="125"/> <br><br> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="35"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="125"/> <br><br> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="35"/> </p>
 
 ## Professional Overview
 
